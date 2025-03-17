@@ -1,0 +1,1 @@
+還有Shopee_training_ckipseg_v3_listOK跟train_data兩個json檔太大上傳不了
